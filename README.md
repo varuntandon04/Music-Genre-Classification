@@ -1,4 +1,4 @@
-# Feature Extraction From Music Genres and Genre Classification
+# Feature Extraction From Music Genres
 
 Feature exrtaction is the one of the first steps in the ML pipeline that can dictate how well a model can perform. Furthermore, feature extraction from audio is vital as models won't be able to learn well enough from the sound clips alone. Thus in this project, we see how we can utilize the ```librosa``` library to extract important information from audio.
 
