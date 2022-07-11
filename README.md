@@ -18,5 +18,5 @@ Which resulted in 33 extracted features.
 
 
 Here are a few examples of a mel spectrogram:
-
+![](img/mel spectrogram example.png)
 
